@@ -35,9 +35,9 @@ export default {
   display: flex
   height: 6rem
   .item-img
-    width: 5.4rem
-    height: 5.4rem
-    padding: .3rem
+    width: 5.2rem
+    height: 5.2rem
+    padding: .4rem
   .item-info
     flex: 1
     padding: .2rem

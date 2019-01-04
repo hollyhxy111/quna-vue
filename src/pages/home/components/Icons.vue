@@ -49,10 +49,11 @@ export default {
 @import '~styles/mixins.styl'
 .icons >>> .swiper-container
   height: 0
-  padding-bottom: 46%
+  padding-bottom: 49%
 .icons
   margin-top: .5rem
   .icon
+    margin-bottom: .4rem
     position: relative
     float: left
     width: 25%
@@ -65,7 +66,7 @@ export default {
       right: 0
       bottom: .88rem
       box-sizing: border-box
-      padding: .1rem
+      padding: .3rem
       .icon-img-content
         display: block
         margin: 0 auto
